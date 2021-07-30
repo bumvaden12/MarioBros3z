@@ -1,0 +1,12 @@
+[SETTINGS]
+start	4
+#scene list
+[SCENES]
+#scence id, #filepath, #typeScence (World = 0, WorldMap= 1, #typeCamera
+#typeCamera	0 (notCamera)	1 (Camera Follow Mario) 	2(Mario Follow Camera)
+1	scencemap1.txt	1	0
+2	scene1.txt	0	1
+3	scene4.txt	0	2
+4	sceneIntro.txt	1	0
+5	scene3.txt	0	1
+6	scene3hidden.txt	0	1
